@@ -17,7 +17,6 @@
 - [Key Insights](#-key-insights)
 - [Tools Used](#-tools-used)
 - [How to Use](#-how-to-use)
-- [Report](#-report)
 - [Disclaimer](#-disclaimer)
 - [License](#-license)
 
@@ -111,20 +110,6 @@ INT387-Suicide-Analysis/
 - **Raw Data files** are located in `Dataset/Raw Data/` as `.csv` files
 - **Cleaned Data files** are in `Dataset/Cleaned Data/` in both `.xlsx` and `.csv` formats for easy import into your preferred tools
 
----
-
-## 📄 Report
-
-The complete written analysis and detailed findings are documented in:
-
-**📑 Suicide Analysis Report 12408787.docx**
-
-This report contains:
-- Executive summary of findings
-- Detailed statistical analysis
-- Interpretation of key trends
-- Academic citations and references
-- Recommendations based on the data
 
 ---
 
