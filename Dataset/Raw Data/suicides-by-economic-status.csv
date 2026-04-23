@@ -1,0 +1,1208 @@
+id,year,state_name,state_code,economic_status,gender,number_of_deaths
+0,2018,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Female,43
+1,2018,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Male,41
+3,2018,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,10
+4,2018,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,64
+7,2018,Andaman And Nicobar Islands,35,₹10 Lakhs And Above,Male,1
+9,2018,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+10,2018,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,4
+12,2018,Andhra Pradesh,28,Less Than ₹1 Lakh,Female,964
+13,2018,Andhra Pradesh,28,Less Than ₹1 Lakh,Male,2346
+14,2018,Andhra Pradesh,28,Less Than ₹1 Lakh,Transgender,2
+15,2018,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,506
+16,2018,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1200
+18,2018,Andhra Pradesh,28,₹10 Lakhs And Above,Female,23
+19,2018,Andhra Pradesh,28,₹10 Lakhs And Above,Male,57
+21,2018,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,73
+22,2018,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,148
+24,2018,Arunachal Pradesh,12,Less Than ₹1 Lakh,Female,26
+25,2018,Arunachal Pradesh,12,Less Than ₹1 Lakh,Male,65
+27,2018,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,10
+28,2018,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,20
+34,2018,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,11
+36,2018,Assam,18,Less Than ₹1 Lakh,Female,445
+37,2018,Assam,18,Less Than ₹1 Lakh,Male,1051
+39,2018,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,224
+40,2018,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,482
+45,2018,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,34
+46,2018,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,143
+48,2018,Bihar,10,Less Than ₹1 Lakh,Female,75
+49,2018,Bihar,10,Less Than ₹1 Lakh,Male,105
+51,2018,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,85
+52,2018,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,109
+54,2018,Bihar,10,₹10 Lakhs And Above,Female,6
+55,2018,Bihar,10,₹10 Lakhs And Above,Male,9
+57,2018,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,19
+58,2018,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,35
+60,2018,Chandigarh,4,Less Than ₹1 Lakh,Female,36
+61,2018,Chandigarh,4,Less Than ₹1 Lakh,Male,103
+63,2018,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,4
+64,2018,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,15
+70,2018,Chandigarh,4,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+72,2018,Chhattisgarh,22,Less Than ₹1 Lakh,Female,1559
+73,2018,Chhattisgarh,22,Less Than ₹1 Lakh,Male,3566
+75,2018,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,304
+76,2018,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,972
+78,2018,Chhattisgarh,22,₹10 Lakhs And Above,Female,2
+79,2018,Chhattisgarh,22,₹10 Lakhs And Above,Male,19
+81,2018,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,202
+82,2018,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,422
+84,2018,Delhi,7,Less Than ₹1 Lakh,Female,415
+85,2018,Delhi,7,Less Than ₹1 Lakh,Male,1026
+87,2018,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,321
+88,2018,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,689
+91,2018,Delhi,7,₹10 Lakhs And Above,Male,5
+93,2018,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,11
+94,2018,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,59
+96,2018,Goa,30,Less Than ₹1 Lakh,Female,34
+97,2018,Goa,30,Less Than ₹1 Lakh,Male,116
+99,2018,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,27
+100,2018,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,77
+106,2018,Goa,30,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+108,2018,Gujarat,24,Less Than ₹1 Lakh,Female,2089
+109,2018,Gujarat,24,Less Than ₹1 Lakh,Male,3629
+111,2018,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,482
+112,2018,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1512
+115,2018,Gujarat,24,₹10 Lakhs And Above,Male,3
+117,2018,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,12
+118,2018,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,66
+120,2018,Haryana,6,Less Than ₹1 Lakh,Female,349
+121,2018,Haryana,6,Less Than ₹1 Lakh,Male,1088
+123,2018,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,352
+124,2018,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1339
+126,2018,Haryana,6,₹10 Lakhs And Above,Female,14
+127,2018,Haryana,6,₹10 Lakhs And Above,Male,74
+129,2018,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,50
+130,2018,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,281
+132,2018,Himachal Pradesh,2,Less Than ₹1 Lakh,Female,180
+133,2018,Himachal Pradesh,2,Less Than ₹1 Lakh,Male,262
+135,2018,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,64
+136,2018,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,204
+139,2018,Himachal Pradesh,2,₹10 Lakhs And Above,Male,6
+141,2018,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,3
+142,2018,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,21
+144,2018,Jammu And Kashmir,1,Less Than ₹1 Lakh,Female,117
+145,2018,Jammu And Kashmir,1,Less Than ₹1 Lakh,Male,97
+147,2018,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,58
+148,2018,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,55
+151,2018,Jammu And Kashmir,1,₹10 Lakhs And Above,Male,1
+154,2018,Jammu And Kashmir,1,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+156,2018,Jharkhand,20,Less Than ₹1 Lakh,Female,264
+157,2018,Jharkhand,20,Less Than ₹1 Lakh,Male,485
+159,2018,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,125
+160,2018,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,392
+162,2018,Jharkhand,20,₹10 Lakhs And Above,Female,2
+163,2018,Jharkhand,20,₹10 Lakhs And Above,Male,4
+165,2018,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,17
+166,2018,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,28
+168,2018,Karnataka,29,Less Than ₹1 Lakh,Female,2230
+169,2018,Karnataka,29,Less Than ₹1 Lakh,Male,5342
+170,2018,Karnataka,29,Less Than ₹1 Lakh,Transgender,3
+171,2018,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,832
+172,2018,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2829
+174,2018,Karnataka,29,₹10 Lakhs And Above,Female,7
+175,2018,Karnataka,29,₹10 Lakhs And Above,Male,17
+177,2018,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,74
+178,2018,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,227
+180,2018,Kerala,32,Less Than ₹1 Lakh,Female,1376
+181,2018,Kerala,32,Less Than ₹1 Lakh,Male,4134
+183,2018,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,422
+184,2018,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2023
+186,2018,Kerala,32,₹10 Lakhs And Above,Female,4
+187,2018,Kerala,32,₹10 Lakhs And Above,Male,20
+189,2018,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,71
+190,2018,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,187
+193,2018,Lakshadweep,31,Less Than ₹1 Lakh,Male,2
+196,2018,Lakshadweep,31,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1
+204,2018,Madhya Pradesh,23,Less Than ₹1 Lakh,Female,3465
+205,2018,Madhya Pradesh,23,Less Than ₹1 Lakh,Male,5312
+206,2018,Madhya Pradesh,23,Less Than ₹1 Lakh,Transgender,1
+207,2018,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,818
+208,2018,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1908
+210,2018,Madhya Pradesh,23,₹10 Lakhs And Above,Female,17
+211,2018,Madhya Pradesh,23,₹10 Lakhs And Above,Male,36
+213,2018,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,48
+214,2018,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,170
+216,2018,Maharashtra,27,Less Than ₹1 Lakh,Female,3181
+217,2018,Maharashtra,27,Less Than ₹1 Lakh,Male,8667
+219,2018,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1042
+220,2018,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,4302
+221,2018,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,1
+222,2018,Maharashtra,27,₹10 Lakhs And Above,Female,24
+223,2018,Maharashtra,27,₹10 Lakhs And Above,Male,42
+225,2018,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,227
+226,2018,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,486
+228,2018,Manipur,14,Less Than ₹1 Lakh,Female,16
+229,2018,Manipur,14,Less Than ₹1 Lakh,Male,27
+231,2018,Manipur,14,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1
+232,2018,Manipur,14,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,8
+240,2018,Meghalaya,17,Less Than ₹1 Lakh,Female,33
+241,2018,Meghalaya,17,Less Than ₹1 Lakh,Male,118
+243,2018,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,5
+244,2018,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,30
+250,2018,Meghalaya,17,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+252,2018,Mizoram,15,Less Than ₹1 Lakh,Female,11
+253,2018,Mizoram,15,Less Than ₹1 Lakh,Male,40
+255,2018,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1
+256,2018,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,24
+262,2018,Mizoram,15,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+264,2018,Nagaland,13,Less Than ₹1 Lakh,Female,5
+265,2018,Nagaland,13,Less Than ₹1 Lakh,Male,22
+267,2018,Nagaland,13,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1
+268,2018,Nagaland,13,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,7
+274,2018,Nagaland,13,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+276,2018,Odisha,21,Less Than ₹1 Lakh,Female,383
+277,2018,Odisha,21,Less Than ₹1 Lakh,Male,610
+279,2018,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1583
+280,2018,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1286
+285,2018,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,319
+286,2018,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,411
+288,2018,Puducherry,34,Less Than ₹1 Lakh,Female,126
+289,2018,Puducherry,34,Less Than ₹1 Lakh,Male,374
+300,2018,Punjab,3,Less Than ₹1 Lakh,Female,298
+301,2018,Punjab,3,Less Than ₹1 Lakh,Male,776
+302,2018,Punjab,3,Less Than ₹1 Lakh,Transgender,1
+303,2018,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,40
+304,2018,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,411
+306,2018,Punjab,3,₹10 Lakhs And Above,Female,10
+307,2018,Punjab,3,₹10 Lakhs And Above,Male,111
+309,2018,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,10
+310,2018,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,57
+312,2018,Rajasthan,8,Less Than ₹1 Lakh,Female,843
+313,2018,Rajasthan,8,Less Than ₹1 Lakh,Male,1855
+315,2018,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,375
+316,2018,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1139
+317,2018,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,1
+318,2018,Rajasthan,8,₹10 Lakhs And Above,Female,6
+319,2018,Rajasthan,8,₹10 Lakhs And Above,Male,13
+321,2018,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,20
+322,2018,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,81
+324,2018,Sikkim,11,Less Than ₹1 Lakh,Female,51
+325,2018,Sikkim,11,Less Than ₹1 Lakh,Male,137
+327,2018,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,5
+328,2018,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,6
+336,2018,Tamil Nadu,33,Less Than ₹1 Lakh,Female,3555
+337,2018,Tamil Nadu,33,Less Than ₹1 Lakh,Male,6484
+338,2018,Tamil Nadu,33,Less Than ₹1 Lakh,Transgender,2
+339,2018,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1035
+340,2018,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2508
+342,2018,Tamil Nadu,33,₹10 Lakhs And Above,Female,20
+343,2018,Tamil Nadu,33,₹10 Lakhs And Above,Male,31
+345,2018,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,105
+346,2018,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,156
+348,2018,Telangana,36,Less Than ₹1 Lakh,Female,1380
+349,2018,Telangana,36,Less Than ₹1 Lakh,Male,3223
+351,2018,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,626
+352,2018,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1623
+354,2018,Telangana,36,₹10 Lakhs And Above,Female,61
+355,2018,Telangana,36,₹10 Lakhs And Above,Male,135
+357,2018,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,166
+358,2018,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,631
+360,2018,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Female,38
+361,2018,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Male,65
+363,2018,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,6
+364,2018,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,27
+372,2018,Tripura,16,Less Than ₹1 Lakh,Female,181
+373,2018,Tripura,16,Less Than ₹1 Lakh,Male,358
+375,2018,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,36
+376,2018,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,121
+378,2018,Tripura,16,₹10 Lakhs And Above,Female,2
+379,2018,Tripura,16,₹10 Lakhs And Above,Male,3
+381,2018,Tripura,16,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,8
+382,2018,Tripura,16,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,11
+384,2018,Uttar Pradesh,9,Less Than ₹1 Lakh,Female,1537
+385,2018,Uttar Pradesh,9,Less Than ₹1 Lakh,Male,2060
+387,2018,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,348
+388,2018,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,746
+390,2018,Uttar Pradesh,9,₹10 Lakhs And Above,Female,11
+391,2018,Uttar Pradesh,9,₹10 Lakhs And Above,Male,12
+393,2018,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,62
+394,2018,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,73
+396,2018,Uttarakhand,5,Less Than ₹1 Lakh,Female,99
+397,2018,Uttarakhand,5,Less Than ₹1 Lakh,Male,98
+399,2018,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,73
+400,2018,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,151
+408,2018,West Bengal,19,Less Than ₹1 Lakh,Female,4191
+409,2018,West Bengal,19,Less Than ₹1 Lakh,Male,5698
+411,2018,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1083
+412,2018,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1894
+417,2018,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,151
+418,2018,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,238
+420,2019,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Female,44
+421,2019,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Male,53
+423,2019,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,3
+424,2019,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,66
+429,2019,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,4
+430,2019,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,11
+432,2019,Andhra Pradesh,28,Less Than ₹1 Lakh,Female,1180
+433,2019,Andhra Pradesh,28,Less Than ₹1 Lakh,Male,3111
+435,2019,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,461
+436,2019,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1398
+438,2019,Andhra Pradesh,28,₹10 Lakhs And Above,Female,26
+439,2019,Andhra Pradesh,28,₹10 Lakhs And Above,Male,62
+441,2019,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,58
+442,2019,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,169
+444,2019,Arunachal Pradesh,12,Less Than ₹1 Lakh,Female,18
+445,2019,Arunachal Pradesh,12,Less Than ₹1 Lakh,Male,46
+447,2019,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,9
+448,2019,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,27
+453,2019,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,4
+454,2019,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,8
+456,2019,Assam,18,Less Than ₹1 Lakh,Female,442
+457,2019,Assam,18,Less Than ₹1 Lakh,Male,987
+459,2019,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,209
+460,2019,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,553
+462,2019,Assam,18,₹10 Lakhs And Above,Female,21
+463,2019,Assam,18,₹10 Lakhs And Above,Male,42
+465,2019,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,19
+466,2019,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,97
+468,2019,Bihar,10,Less Than ₹1 Lakh,Female,100
+469,2019,Bihar,10,Less Than ₹1 Lakh,Male,140
+471,2019,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,121
+472,2019,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,192
+474,2019,Bihar,10,₹10 Lakhs And Above,Female,5
+475,2019,Bihar,10,₹10 Lakhs And Above,Male,10
+477,2019,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,20
+478,2019,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,53
+480,2019,Chandigarh,4,Less Than ₹1 Lakh,Female,26
+481,2019,Chandigarh,4,Less Than ₹1 Lakh,Male,53
+483,2019,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,11
+484,2019,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,33
+487,2019,Chandigarh,4,₹10 Lakhs And Above,Male,1
+489,2019,Chandigarh,4,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+490,2019,Chandigarh,4,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,6
+492,2019,Chhattisgarh,22,Less Than ₹1 Lakh,Female,1478
+493,2019,Chhattisgarh,22,Less Than ₹1 Lakh,Male,3640
+495,2019,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,584
+496,2019,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1642
+498,2019,Chhattisgarh,22,₹10 Lakhs And Above,Female,1
+499,2019,Chhattisgarh,22,₹10 Lakhs And Above,Male,18
+501,2019,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,46
+502,2019,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,220
+504,2019,Delhi,7,Less Than ₹1 Lakh,Female,512
+505,2019,Delhi,7,Less Than ₹1 Lakh,Male,1043
+507,2019,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,235
+508,2019,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,660
+510,2019,Delhi,7,₹10 Lakhs And Above,Female,1
+511,2019,Delhi,7,₹10 Lakhs And Above,Male,4
+513,2019,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,20
+514,2019,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,51
+516,2019,Goa,30,Less Than ₹1 Lakh,Female,37
+517,2019,Goa,30,Less Than ₹1 Lakh,Male,95
+519,2019,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,21
+520,2019,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,99
+526,2019,Goa,30,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,7
+528,2019,Gujarat,24,Less Than ₹1 Lakh,Female,1962
+529,2019,Gujarat,24,Less Than ₹1 Lakh,Male,3412
+530,2019,Gujarat,24,Less Than ₹1 Lakh,Transgender,1
+531,2019,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,495
+532,2019,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1661
+535,2019,Gujarat,24,₹10 Lakhs And Above,Male,2
+537,2019,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,29
+538,2019,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,93
+540,2019,Haryana,6,Less Than ₹1 Lakh,Female,540
+541,2019,Haryana,6,Less Than ₹1 Lakh,Male,1796
+543,2019,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,270
+544,2019,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1121
+546,2019,Haryana,6,₹10 Lakhs And Above,Female,22
+547,2019,Haryana,6,₹10 Lakhs And Above,Male,130
+549,2019,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,62
+550,2019,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,250
+552,2019,Himachal Pradesh,2,Less Than ₹1 Lakh,Female,125
+553,2019,Himachal Pradesh,2,Less Than ₹1 Lakh,Male,213
+555,2019,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,68
+556,2019,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,148
+558,2019,Himachal Pradesh,2,₹10 Lakhs And Above,Female,2
+559,2019,Himachal Pradesh,2,₹10 Lakhs And Above,Male,4
+561,2019,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,12
+562,2019,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,12
+564,2019,Jammu And Kashmir,1,Less Than ₹1 Lakh,Female,100
+565,2019,Jammu And Kashmir,1,Less Than ₹1 Lakh,Male,113
+567,2019,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,27
+568,2019,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,40
+574,2019,Jammu And Kashmir,1,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,4
+576,2019,Jharkhand,20,Less Than ₹1 Lakh,Female,411
+577,2019,Jharkhand,20,Less Than ₹1 Lakh,Male,710
+579,2019,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,129
+580,2019,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,284
+582,2019,Jharkhand,20,₹10 Lakhs And Above,Female,2
+583,2019,Jharkhand,20,₹10 Lakhs And Above,Male,5
+585,2019,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,38
+586,2019,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,67
+588,2019,Karnataka,29,Less Than ₹1 Lakh,Female,1914
+589,2019,Karnataka,29,Less Than ₹1 Lakh,Male,5113
+590,2019,Karnataka,29,Less Than ₹1 Lakh,Transgender,2
+591,2019,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,881
+592,2019,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3029
+594,2019,Karnataka,29,₹10 Lakhs And Above,Female,4
+595,2019,Karnataka,29,₹10 Lakhs And Above,Male,20
+597,2019,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,74
+598,2019,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,251
+600,2019,Kerala,32,Less Than ₹1 Lakh,Female,1429
+601,2019,Kerala,32,Less Than ₹1 Lakh,Male,4394
+603,2019,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,411
+604,2019,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2078
+606,2019,Kerala,32,₹10 Lakhs And Above,Female,2
+607,2019,Kerala,32,₹10 Lakhs And Above,Male,13
+609,2019,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,46
+610,2019,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,183
+624,2019,Madhya Pradesh,23,Less Than ₹1 Lakh,Female,3600
+625,2019,Madhya Pradesh,23,Less Than ₹1 Lakh,Male,5721
+626,2019,Madhya Pradesh,23,Less Than ₹1 Lakh,Transgender,1
+627,2019,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,734
+628,2019,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2254
+629,2019,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,1
+631,2019,Madhya Pradesh,23,₹10 Lakhs And Above,Male,3
+633,2019,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,14
+634,2019,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,129
+636,2019,Maharashtra,27,Less Than ₹1 Lakh,Female,3127
+637,2019,Maharashtra,27,Less Than ₹1 Lakh,Male,8392
+638,2019,Maharashtra,27,Less Than ₹1 Lakh,Transgender,2
+639,2019,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1202
+640,2019,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,5458
+642,2019,Maharashtra,27,₹10 Lakhs And Above,Female,7
+643,2019,Maharashtra,27,₹10 Lakhs And Above,Male,56
+645,2019,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,112
+646,2019,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,560
+648,2019,Manipur,14,Less Than ₹1 Lakh,Female,22
+649,2019,Manipur,14,Less Than ₹1 Lakh,Male,28
+652,2019,Manipur,14,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,7
+658,2019,Manipur,14,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+660,2019,Meghalaya,17,Less Than ₹1 Lakh,Female,29
+661,2019,Meghalaya,17,Less Than ₹1 Lakh,Male,120
+663,2019,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,4
+664,2019,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,42
+670,2019,Meghalaya,17,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+672,2019,Mizoram,15,Less Than ₹1 Lakh,Female,15
+673,2019,Mizoram,15,Less Than ₹1 Lakh,Male,36
+675,2019,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1
+676,2019,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,15
+682,2019,Mizoram,15,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+684,2019,Nagaland,13,Less Than ₹1 Lakh,Female,5
+685,2019,Nagaland,13,Less Than ₹1 Lakh,Male,24
+688,2019,Nagaland,13,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,12
+696,2019,Odisha,21,Less Than ₹1 Lakh,Female,847
+697,2019,Odisha,21,Less Than ₹1 Lakh,Male,1263
+699,2019,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1126
+700,2019,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1299
+705,2019,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,13
+706,2019,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,34
+708,2019,Puducherry,34,Less Than ₹1 Lakh,Female,145
+709,2019,Puducherry,34,Less Than ₹1 Lakh,Male,348
+720,2019,Punjab,3,Less Than ₹1 Lakh,Female,408
+721,2019,Punjab,3,Less Than ₹1 Lakh,Male,1196
+722,2019,Punjab,3,Less Than ₹1 Lakh,Transgender,1
+723,2019,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,110
+724,2019,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,498
+726,2019,Punjab,3,₹10 Lakhs And Above,Female,4
+727,2019,Punjab,3,₹10 Lakhs And Above,Male,36
+729,2019,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,17
+730,2019,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,87
+732,2019,Rajasthan,8,Less Than ₹1 Lakh,Female,850
+733,2019,Rajasthan,8,Less Than ₹1 Lakh,Male,1833
+735,2019,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,334
+736,2019,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1302
+738,2019,Rajasthan,8,₹10 Lakhs And Above,Female,13
+739,2019,Rajasthan,8,₹10 Lakhs And Above,Male,33
+741,2019,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,32
+742,2019,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,134
+744,2019,Sikkim,11,Less Than ₹1 Lakh,Female,58
+745,2019,Sikkim,11,Less Than ₹1 Lakh,Male,149
+748,2019,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,12
+754,2019,Sikkim,11,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+756,2019,Tamil Nadu,33,Less Than ₹1 Lakh,Female,3249
+757,2019,Tamil Nadu,33,Less Than ₹1 Lakh,Male,6467
+758,2019,Tamil Nadu,33,Less Than ₹1 Lakh,Transgender,7
+759,2019,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,882
+760,2019,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2351
+761,2019,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,1
+762,2019,Tamil Nadu,33,₹10 Lakhs And Above,Female,10
+763,2019,Tamil Nadu,33,₹10 Lakhs And Above,Male,35
+765,2019,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,109
+766,2019,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,382
+768,2019,Telangana,36,Less Than ₹1 Lakh,Female,1172
+769,2019,Telangana,36,Less Than ₹1 Lakh,Male,3180
+770,2019,Telangana,36,Less Than ₹1 Lakh,Transgender,1
+771,2019,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,596
+772,2019,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1717
+774,2019,Telangana,36,₹10 Lakhs And Above,Female,74
+775,2019,Telangana,36,₹10 Lakhs And Above,Male,106
+777,2019,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,220
+778,2019,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,609
+780,2019,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Female,32
+781,2019,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Male,54
+783,2019,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,8
+784,2019,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,44
+790,2019,The Dadra And Nagar Haveli And Daman And Diu,38,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+792,2019,Tripura,16,Less Than ₹1 Lakh,Female,168
+793,2019,Tripura,16,Less Than ₹1 Lakh,Male,368
+795,2019,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,46
+796,2019,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,107
+799,2019,Tripura,16,₹10 Lakhs And Above,Male,2
+801,2019,Tripura,16,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,18
+802,2019,Tripura,16,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,19
+804,2019,Uttar Pradesh,9,Less Than ₹1 Lakh,Female,1743
+805,2019,Uttar Pradesh,9,Less Than ₹1 Lakh,Male,2285
+807,2019,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,441
+808,2019,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,882
+810,2019,Uttar Pradesh,9,₹10 Lakhs And Above,Female,9
+811,2019,Uttar Pradesh,9,₹10 Lakhs And Above,Male,16
+813,2019,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,38
+814,2019,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,50
+816,2019,Uttarakhand,5,Less Than ₹1 Lakh,Female,90
+817,2019,Uttarakhand,5,Less Than ₹1 Lakh,Male,171
+819,2019,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,76
+820,2019,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,138
+825,2019,Uttarakhand,5,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,15
+826,2019,Uttarakhand,5,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,26
+828,2019,West Bengal,19,Less Than ₹1 Lakh,Female,3954
+829,2019,West Bengal,19,Less Than ₹1 Lakh,Male,5682
+831,2019,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,787
+832,2019,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1744
+834,2019,West Bengal,19,₹10 Lakhs And Above,Female,65
+835,2019,West Bengal,19,₹10 Lakhs And Above,Male,153
+837,2019,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,90
+838,2019,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,190
+840,2020,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Female,49
+841,2020,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Male,65
+843,2020,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1
+844,2020,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,51
+847,2020,Andaman And Nicobar Islands,35,₹10 Lakhs And Above,Male,4
+850,2020,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,10
+852,2020,Andhra Pradesh,28,Less Than ₹1 Lakh,Female,1048
+853,2020,Andhra Pradesh,28,Less Than ₹1 Lakh,Male,2852
+854,2020,Andhra Pradesh,28,Less Than ₹1 Lakh,Transgender,2
+855,2020,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,705
+856,2020,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1988
+858,2020,Andhra Pradesh,28,₹10 Lakhs And Above,Female,22
+859,2020,Andhra Pradesh,28,₹10 Lakhs And Above,Male,51
+861,2020,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,109
+862,2020,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,266
+864,2020,Arunachal Pradesh,12,Less Than ₹1 Lakh,Female,42
+865,2020,Arunachal Pradesh,12,Less Than ₹1 Lakh,Male,76
+867,2020,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,5
+868,2020,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,33
+873,2020,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+874,2020,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+876,2020,Assam,18,Less Than ₹1 Lakh,Female,593
+877,2020,Assam,18,Less Than ₹1 Lakh,Male,1418
+879,2020,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,263
+880,2020,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,735
+885,2020,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,50
+886,2020,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,184
+888,2020,Bihar,10,Less Than ₹1 Lakh,Female,152
+889,2020,Bihar,10,Less Than ₹1 Lakh,Male,178
+891,2020,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,179
+892,2020,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,229
+894,2020,Bihar,10,₹10 Lakhs And Above,Female,6
+895,2020,Bihar,10,₹10 Lakhs And Above,Male,6
+897,2020,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,21
+898,2020,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,38
+900,2020,Chandigarh,4,Less Than ₹1 Lakh,Female,31
+901,2020,Chandigarh,4,Less Than ₹1 Lakh,Male,51
+903,2020,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,16
+904,2020,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,27
+909,2020,Chandigarh,4,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+910,2020,Chandigarh,4,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+912,2020,Chhattisgarh,22,Less Than ₹1 Lakh,Female,1456
+913,2020,Chhattisgarh,22,Less Than ₹1 Lakh,Male,3121
+915,2020,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,627
+916,2020,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1904
+918,2020,Chhattisgarh,22,₹10 Lakhs And Above,Female,4
+919,2020,Chhattisgarh,22,₹10 Lakhs And Above,Male,19
+921,2020,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,155
+922,2020,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,424
+924,2020,Delhi,7,Less Than ₹1 Lakh,Female,457
+925,2020,Delhi,7,Less Than ₹1 Lakh,Male,955
+927,2020,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,371
+928,2020,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1055
+930,2020,Delhi,7,₹10 Lakhs And Above,Female,3
+931,2020,Delhi,7,₹10 Lakhs And Above,Male,13
+933,2020,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,64
+934,2020,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,224
+936,2020,Goa,30,Less Than ₹1 Lakh,Female,54
+937,2020,Goa,30,Less Than ₹1 Lakh,Male,141
+939,2020,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,19
+940,2020,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,82
+945,2020,Goa,30,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+946,2020,Goa,30,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,11
+948,2020,Gujarat,24,Less Than ₹1 Lakh,Female,1975
+949,2020,Gujarat,24,Less Than ₹1 Lakh,Male,3529
+950,2020,Gujarat,24,Less Than ₹1 Lakh,Transgender,2
+951,2020,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,541
+952,2020,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1877
+955,2020,Gujarat,24,₹10 Lakhs And Above,Male,1
+957,2020,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,26
+958,2020,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,99
+960,2020,Haryana,6,Less Than ₹1 Lakh,Female,498
+961,2020,Haryana,6,Less Than ₹1 Lakh,Male,1550
+963,2020,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,368
+964,2020,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1360
+966,2020,Haryana,6,₹10 Lakhs And Above,Female,10
+967,2020,Haryana,6,₹10 Lakhs And Above,Male,19
+969,2020,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,41
+970,2020,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,155
+972,2020,Himachal Pradesh,2,Less Than ₹1 Lakh,Female,201
+973,2020,Himachal Pradesh,2,Less Than ₹1 Lakh,Male,308
+975,2020,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,75
+976,2020,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,179
+979,2020,Himachal Pradesh,2,₹10 Lakhs And Above,Male,7
+981,2020,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,20
+982,2020,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,67
+984,2020,Jammu And Kashmir,1,Less Than ₹1 Lakh,Female,74
+985,2020,Jammu And Kashmir,1,Less Than ₹1 Lakh,Male,90
+987,2020,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,53
+988,2020,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,55
+991,2020,Jammu And Kashmir,1,₹10 Lakhs And Above,Male,3
+993,2020,Jammu And Kashmir,1,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,3
+994,2020,Jammu And Kashmir,1,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,9
+996,2020,Jharkhand,20,Less Than ₹1 Lakh,Female,535
+997,2020,Jharkhand,20,Less Than ₹1 Lakh,Male,1007
+999,2020,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,207
+1000,2020,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,356
+1002,2020,Jharkhand,20,₹10 Lakhs And Above,Female,2
+1003,2020,Jharkhand,20,₹10 Lakhs And Above,Male,4
+1005,2020,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,15
+1006,2020,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,19
+1008,2020,Karnataka,29,Less Than ₹1 Lakh,Female,2193
+1009,2020,Karnataka,29,Less Than ₹1 Lakh,Male,5815
+1010,2020,Karnataka,29,Less Than ₹1 Lakh,Transgender,1
+1011,2020,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,806
+1012,2020,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3063
+1014,2020,Karnataka,29,₹10 Lakhs And Above,Female,4
+1015,2020,Karnataka,29,₹10 Lakhs And Above,Male,24
+1017,2020,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,64
+1018,2020,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,289
+1020,2020,Kerala,32,Less Than ₹1 Lakh,Female,1389
+1021,2020,Kerala,32,Less Than ₹1 Lakh,Male,3727
+1023,2020,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,497
+1024,2020,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2577
+1026,2020,Kerala,32,₹10 Lakhs And Above,Female,2
+1027,2020,Kerala,32,₹10 Lakhs And Above,Male,6
+1029,2020,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,42
+1030,2020,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,260
+1032,2020,Ladakh,37,Less Than ₹1 Lakh,Female,2
+1033,2020,Ladakh,37,Less Than ₹1 Lakh,Male,5
+1036,2020,Ladakh,37,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,4
+1042,2020,Ladakh,37,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1044,2020,Lakshadweep,31,Less Than ₹1 Lakh,Female,1
+1045,2020,Lakshadweep,31,Less Than ₹1 Lakh,Male,1
+1056,2020,Madhya Pradesh,23,Less Than ₹1 Lakh,Female,3650
+1057,2020,Madhya Pradesh,23,Less Than ₹1 Lakh,Male,6352
+1059,2020,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1017
+1060,2020,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2727
+1062,2020,Madhya Pradesh,23,₹10 Lakhs And Above,Female,211
+1063,2020,Madhya Pradesh,23,₹10 Lakhs And Above,Male,409
+1065,2020,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,37
+1066,2020,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,175
+1068,2020,Maharashtra,27,Less Than ₹1 Lakh,Female,3344
+1069,2020,Maharashtra,27,Less Than ₹1 Lakh,Male,9621
+1070,2020,Maharashtra,27,Less Than ₹1 Lakh,Transgender,4
+1071,2020,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1044
+1072,2020,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,5287
+1074,2020,Maharashtra,27,₹10 Lakhs And Above,Female,3
+1075,2020,Maharashtra,27,₹10 Lakhs And Above,Male,44
+1077,2020,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,81
+1078,2020,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,481
+1080,2020,Manipur,14,Less Than ₹1 Lakh,Female,11
+1081,2020,Manipur,14,Less Than ₹1 Lakh,Male,18
+1083,2020,Manipur,14,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,6
+1084,2020,Manipur,14,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,6
+1090,2020,Manipur,14,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+1092,2020,Meghalaya,17,Less Than ₹1 Lakh,Female,58
+1093,2020,Meghalaya,17,Less Than ₹1 Lakh,Male,135
+1096,2020,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,20
+1101,2020,Meghalaya,17,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,3
+1102,2020,Meghalaya,17,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,8
+1104,2020,Mizoram,15,Less Than ₹1 Lakh,Female,18
+1105,2020,Mizoram,15,Less Than ₹1 Lakh,Male,83
+1107,2020,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,2
+1108,2020,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,4
+1114,2020,Mizoram,15,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1116,2020,Nagaland,13,Less Than ₹1 Lakh,Female,10
+1117,2020,Nagaland,13,Less Than ₹1 Lakh,Male,25
+1119,2020,Nagaland,13,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,2
+1120,2020,Nagaland,13,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,11
+1128,2020,Odisha,21,Less Than ₹1 Lakh,Female,467
+1129,2020,Odisha,21,Less Than ₹1 Lakh,Male,608
+1131,2020,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1141
+1132,2020,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3250
+1134,2020,Odisha,21,₹10 Lakhs And Above,Female,2
+1135,2020,Odisha,21,₹10 Lakhs And Above,Male,2
+1137,2020,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,27
+1138,2020,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,49
+1140,2020,Puducherry,34,Less Than ₹1 Lakh,Female,109
+1141,2020,Puducherry,34,Less Than ₹1 Lakh,Male,299
+1152,2020,Punjab,3,Less Than ₹1 Lakh,Female,526
+1153,2020,Punjab,3,Less Than ₹1 Lakh,Male,1370
+1154,2020,Punjab,3,Less Than ₹1 Lakh,Transgender,1
+1155,2020,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,91
+1156,2020,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,528
+1158,2020,Punjab,3,₹10 Lakhs And Above,Female,3
+1159,2020,Punjab,3,₹10 Lakhs And Above,Male,44
+1161,2020,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,3
+1162,2020,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,50
+1164,2020,Rajasthan,8,Less Than ₹1 Lakh,Female,1105
+1165,2020,Rajasthan,8,Less Than ₹1 Lakh,Male,2387
+1166,2020,Rajasthan,8,Less Than ₹1 Lakh,Transgender,1
+1167,2020,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,483
+1168,2020,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1525
+1170,2020,Rajasthan,8,₹10 Lakhs And Above,Female,5
+1171,2020,Rajasthan,8,₹10 Lakhs And Above,Male,17
+1173,2020,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,37
+1174,2020,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,98
+1176,2020,Sikkim,11,Less Than ₹1 Lakh,Female,65
+1177,2020,Sikkim,11,Less Than ₹1 Lakh,Male,183
+1179,2020,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,2
+1180,2020,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,32
+1185,2020,Sikkim,11,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1186,2020,Sikkim,11,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+1188,2020,Tamil Nadu,33,Less Than ₹1 Lakh,Female,3857
+1189,2020,Tamil Nadu,33,Less Than ₹1 Lakh,Male,7816
+1190,2020,Tamil Nadu,33,Less Than ₹1 Lakh,Transgender,8
+1191,2020,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1236
+1192,2020,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3219
+1193,2020,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,2
+1194,2020,Tamil Nadu,33,₹10 Lakhs And Above,Female,8
+1195,2020,Tamil Nadu,33,₹10 Lakhs And Above,Male,29
+1197,2020,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,174
+1198,2020,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,534
+1200,2020,Telangana,36,Less Than ₹1 Lakh,Female,1104
+1201,2020,Telangana,36,Less Than ₹1 Lakh,Male,2942
+1202,2020,Telangana,36,Less Than ₹1 Lakh,Transgender,1
+1203,2020,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,854
+1204,2020,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2320
+1206,2020,Telangana,36,₹10 Lakhs And Above,Female,27
+1207,2020,Telangana,36,₹10 Lakhs And Above,Male,71
+1209,2020,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,179
+1210,2020,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,560
+1212,2020,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Female,29
+1213,2020,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Male,31
+1215,2020,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,14
+1216,2020,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,81
+1222,2020,The Dadra And Nagar Haveli And Daman And Diu,38,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1224,2020,Tripura,16,Less Than ₹1 Lakh,Female,229
+1225,2020,Tripura,16,Less Than ₹1 Lakh,Male,427
+1227,2020,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,20
+1228,2020,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,148
+1234,2020,Tripura,16,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,21
+1236,2020,Uttar Pradesh,9,Less Than ₹1 Lakh,Female,1136
+1237,2020,Uttar Pradesh,9,Less Than ₹1 Lakh,Male,1563
+1239,2020,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,417
+1240,2020,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1399
+1242,2020,Uttar Pradesh,9,₹10 Lakhs And Above,Female,2
+1243,2020,Uttar Pradesh,9,₹10 Lakhs And Above,Male,3
+1245,2020,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,87
+1246,2020,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,197
+1248,2020,Uttarakhand,5,Less Than ₹1 Lakh,Female,235
+1249,2020,Uttarakhand,5,Less Than ₹1 Lakh,Male,498
+1251,2020,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,38
+1252,2020,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,164
+1257,2020,Uttarakhand,5,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,3
+1258,2020,Uttarakhand,5,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,5
+1260,2020,West Bengal,19,Less Than ₹1 Lakh,Female,4562
+1261,2020,West Bengal,19,Less Than ₹1 Lakh,Male,6278
+1263,2020,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,491
+1264,2020,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1381
+1266,2020,West Bengal,19,₹10 Lakhs And Above,Female,29
+1267,2020,West Bengal,19,₹10 Lakhs And Above,Male,108
+1269,2020,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,54
+1270,2020,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,200
+1272,2021,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Female,30
+1273,2021,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Male,67
+1275,2021,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,6
+1276,2021,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,50
+1281,2021,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1282,2021,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,5
+1284,2021,Andhra Pradesh,28,Less Than ₹1 Lakh,Female,1071
+1285,2021,Andhra Pradesh,28,Less Than ₹1 Lakh,Male,3102
+1287,2021,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,777
+1288,2021,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2398
+1290,2021,Andhra Pradesh,28,₹10 Lakhs And Above,Female,9
+1291,2021,Andhra Pradesh,28,₹10 Lakhs And Above,Male,96
+1293,2021,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,164
+1294,2021,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,450
+1296,2021,Arunachal Pradesh,12,Less Than ₹1 Lakh,Female,39
+1297,2021,Arunachal Pradesh,12,Less Than ₹1 Lakh,Male,74
+1299,2021,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,5
+1300,2021,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,18
+1303,2021,Arunachal Pradesh,12,₹10 Lakhs And Above,Male,1
+1305,2021,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,5
+1306,2021,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,18
+1308,2021,Assam,18,Less Than ₹1 Lakh,Female,486
+1309,2021,Assam,18,Less Than ₹1 Lakh,Male,1006
+1311,2021,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,372
+1312,2021,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1199
+1315,2021,Assam,18,₹10 Lakhs And Above,Male,1
+1317,2021,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,53
+1318,2021,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,145
+1320,2021,Bihar,10,Less Than ₹1 Lakh,Female,183
+1321,2021,Bihar,10,Less Than ₹1 Lakh,Male,239
+1323,2021,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,156
+1324,2021,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,185
+1326,2021,Bihar,10,₹10 Lakhs And Above,Female,4
+1327,2021,Bihar,10,₹10 Lakhs And Above,Male,11
+1329,2021,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,14
+1330,2021,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,35
+1332,2021,Chandigarh,4,Less Than ₹1 Lakh,Female,14
+1333,2021,Chandigarh,4,Less Than ₹1 Lakh,Male,32
+1335,2021,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,19
+1336,2021,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,41
+1338,2021,Chandigarh,4,₹10 Lakhs And Above,Female,1
+1339,2021,Chandigarh,4,₹10 Lakhs And Above,Male,1
+1341,2021,Chandigarh,4,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,2
+1342,2021,Chandigarh,4,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,10
+1344,2021,Chhattisgarh,22,Less Than ₹1 Lakh,Female,1591
+1345,2021,Chhattisgarh,22,Less Than ₹1 Lakh,Male,3526
+1347,2021,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,520
+1348,2021,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1826
+1350,2021,Chhattisgarh,22,₹10 Lakhs And Above,Female,11
+1351,2021,Chhattisgarh,22,₹10 Lakhs And Above,Male,37
+1353,2021,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,81
+1354,2021,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,236
+1356,2021,Delhi,7,Less Than ₹1 Lakh,Female,417
+1357,2021,Delhi,7,Less Than ₹1 Lakh,Male,1007
+1359,2021,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,296
+1360,2021,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,943
+1361,2021,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,1
+1362,2021,Delhi,7,₹10 Lakhs And Above,Female,2
+1363,2021,Delhi,7,₹10 Lakhs And Above,Male,3
+1365,2021,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,31
+1366,2021,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,140
+1368,2021,Goa,30,Less Than ₹1 Lakh,Female,55
+1369,2021,Goa,30,Less Than ₹1 Lakh,Male,116
+1371,2021,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,16
+1372,2021,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,124
+1377,2021,Goa,30,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1378,2021,Goa,30,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,9
+1380,2021,Gujarat,24,Less Than ₹1 Lakh,Female,2074
+1381,2021,Gujarat,24,Less Than ₹1 Lakh,Male,4207
+1382,2021,Gujarat,24,Less Than ₹1 Lakh,Transgender,1
+1383,2021,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,492
+1384,2021,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1805
+1387,2021,Gujarat,24,₹10 Lakhs And Above,Male,18
+1389,2021,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,23
+1390,2021,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,169
+1392,2021,Haryana,6,Less Than ₹1 Lakh,Female,485
+1393,2021,Haryana,6,Less Than ₹1 Lakh,Male,1616
+1395,2021,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,286
+1396,2021,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1090
+1398,2021,Haryana,6,₹10 Lakhs And Above,Female,30
+1399,2021,Haryana,6,₹10 Lakhs And Above,Male,27
+1401,2021,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,21
+1402,2021,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,137
+1404,2021,Himachal Pradesh,2,Less Than ₹1 Lakh,Female,203
+1405,2021,Himachal Pradesh,2,Less Than ₹1 Lakh,Male,232
+1407,2021,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,56
+1408,2021,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,304
+1411,2021,Himachal Pradesh,2,₹10 Lakhs And Above,Male,4
+1413,2021,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,16
+1414,2021,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,74
+1416,2021,Jammu And Kashmir,1,Less Than ₹1 Lakh,Female,71
+1417,2021,Jammu And Kashmir,1,Less Than ₹1 Lakh,Male,95
+1419,2021,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,32
+1420,2021,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,41
+1423,2021,Jammu And Kashmir,1,₹10 Lakhs And Above,Male,4
+1426,2021,Jammu And Kashmir,1,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,4
+1428,2021,Jharkhand,20,Less Than ₹1 Lakh,Female,308
+1429,2021,Jharkhand,20,Less Than ₹1 Lakh,Male,903
+1431,2021,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,138
+1432,2021,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,409
+1435,2021,Jharkhand,20,₹10 Lakhs And Above,Male,2
+1437,2021,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,21
+1438,2021,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,44
+1440,2021,Karnataka,29,Less Than ₹1 Lakh,Female,2175
+1441,2021,Karnataka,29,Less Than ₹1 Lakh,Male,5880
+1442,2021,Karnataka,29,Less Than ₹1 Lakh,Transgender,3
+1443,2021,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,875
+1444,2021,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3755
+1446,2021,Karnataka,29,₹10 Lakhs And Above,Female,3
+1447,2021,Karnataka,29,₹10 Lakhs And Above,Male,28
+1449,2021,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,73
+1450,2021,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,264
+1452,2021,Kerala,32,Less Than ₹1 Lakh,Female,1497
+1453,2021,Kerala,32,Less Than ₹1 Lakh,Male,4495
+1454,2021,Kerala,32,Less Than ₹1 Lakh,Transgender,6
+1455,2021,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,498
+1456,2021,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2647
+1458,2021,Kerala,32,₹10 Lakhs And Above,Female,5
+1459,2021,Kerala,32,₹10 Lakhs And Above,Male,19
+1461,2021,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,56
+1462,2021,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,326
+1464,2021,Ladakh,37,Less Than ₹1 Lakh,Female,1
+1465,2021,Ladakh,37,Less Than ₹1 Lakh,Male,4
+1468,2021,Ladakh,37,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,5
+1474,2021,Ladakh,37,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1486,2021,Lakshadweep,31,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1488,2021,Madhya Pradesh,23,Less Than ₹1 Lakh,Female,3511
+1489,2021,Madhya Pradesh,23,Less Than ₹1 Lakh,Male,6233
+1491,2021,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1167
+1492,2021,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3625
+1494,2021,Madhya Pradesh,23,₹10 Lakhs And Above,Female,5
+1495,2021,Madhya Pradesh,23,₹10 Lakhs And Above,Male,36
+1497,2021,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,79
+1498,2021,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,309
+1500,2021,Maharashtra,27,Less Than ₹1 Lakh,Female,3576
+1501,2021,Maharashtra,27,Less Than ₹1 Lakh,Male,11389
+1502,2021,Maharashtra,27,Less Than ₹1 Lakh,Transgender,3
+1503,2021,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1091
+1504,2021,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,5650
+1507,2021,Maharashtra,27,₹10 Lakhs And Above,Male,17
+1509,2021,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,48
+1510,2021,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,433
+1512,2021,Manipur,14,Less Than ₹1 Lakh,Female,11
+1513,2021,Manipur,14,Less Than ₹1 Lakh,Male,28
+1516,2021,Manipur,14,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2
+1522,2021,Manipur,14,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,8
+1524,2021,Meghalaya,17,Less Than ₹1 Lakh,Female,46
+1525,2021,Meghalaya,17,Less Than ₹1 Lakh,Male,139
+1527,2021,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,7
+1528,2021,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,32
+1533,2021,Meghalaya,17,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1534,2021,Meghalaya,17,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1536,2021,Mizoram,15,Less Than ₹1 Lakh,Female,8
+1537,2021,Mizoram,15,Less Than ₹1 Lakh,Male,56
+1539,2021,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1
+1540,2021,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,32
+1546,2021,Mizoram,15,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+1548,2021,Nagaland,13,Less Than ₹1 Lakh,Female,6
+1549,2021,Nagaland,13,Less Than ₹1 Lakh,Male,24
+1552,2021,Nagaland,13,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,10
+1558,2021,Nagaland,13,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+1560,2021,Odisha,21,Less Than ₹1 Lakh,Female,833
+1561,2021,Odisha,21,Less Than ₹1 Lakh,Male,2734
+1563,2021,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,389
+1564,2021,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1624
+1569,2021,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,17
+1570,2021,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,54
+1572,2021,Puducherry,34,Less Than ₹1 Lakh,Female,133
+1573,2021,Puducherry,34,Less Than ₹1 Lakh,Male,370
+1574,2021,Puducherry,34,Less Than ₹1 Lakh,Transgender,1
+1584,2021,Punjab,3,Less Than ₹1 Lakh,Female,518
+1585,2021,Punjab,3,Less Than ₹1 Lakh,Male,1486
+1587,2021,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,55
+1588,2021,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,461
+1590,2021,Punjab,3,₹10 Lakhs And Above,Female,1
+1591,2021,Punjab,3,₹10 Lakhs And Above,Male,39
+1593,2021,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1594,2021,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,39
+1596,2021,Rajasthan,8,Less Than ₹1 Lakh,Female,1036
+1597,2021,Rajasthan,8,Less Than ₹1 Lakh,Male,2448
+1599,2021,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,446
+1600,2021,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1421
+1602,2021,Rajasthan,8,₹10 Lakhs And Above,Female,11
+1603,2021,Rajasthan,8,₹10 Lakhs And Above,Male,29
+1605,2021,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,43
+1606,2021,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,159
+1608,2021,Sikkim,11,Less Than ₹1 Lakh,Female,59
+1609,2021,Sikkim,11,Less Than ₹1 Lakh,Male,166
+1611,2021,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,6
+1612,2021,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,33
+1617,2021,Sikkim,11,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1618,2021,Sikkim,11,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1620,2021,Tamil Nadu,33,Less Than ₹1 Lakh,Female,4578
+1621,2021,Tamil Nadu,33,Less Than ₹1 Lakh,Male,9090
+1622,2021,Tamil Nadu,33,Less Than ₹1 Lakh,Transgender,10
+1623,2021,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1047
+1624,2021,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3789
+1626,2021,Tamil Nadu,33,₹10 Lakhs And Above,Female,19
+1627,2021,Tamil Nadu,33,₹10 Lakhs And Above,Male,43
+1629,2021,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,81
+1630,2021,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,268
+1632,2021,Telangana,36,Less Than ₹1 Lakh,Female,1029
+1633,2021,Telangana,36,Less Than ₹1 Lakh,Male,3323
+1634,2021,Telangana,36,Less Than ₹1 Lakh,Transgender,2
+1635,2021,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,930
+1636,2021,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3733
+1638,2021,Telangana,36,₹10 Lakhs And Above,Female,66
+1639,2021,Telangana,36,₹10 Lakhs And Above,Male,171
+1641,2021,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,181
+1642,2021,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,736
+1644,2021,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Female,35
+1645,2021,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Male,78
+1647,2021,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,9
+1648,2021,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,47
+1654,2021,The Dadra And Nagar Haveli And Daman And Diu,38,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+1656,2021,Tripura,16,Less Than ₹1 Lakh,Female,206
+1657,2021,Tripura,16,Less Than ₹1 Lakh,Male,372
+1659,2021,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,22
+1660,2021,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,159
+1666,2021,Tripura,16,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,12
+1668,2021,Uttar Pradesh,9,Less Than ₹1 Lakh,Female,1758
+1669,2021,Uttar Pradesh,9,Less Than ₹1 Lakh,Male,1760
+1671,2021,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,590
+1672,2021,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1675
+1674,2021,Uttar Pradesh,9,₹10 Lakhs And Above,Female,18
+1675,2021,Uttar Pradesh,9,₹10 Lakhs And Above,Male,19
+1677,2021,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,17
+1678,2021,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,95
+1680,2021,Uttarakhand,5,Less Than ₹1 Lakh,Female,192
+1681,2021,Uttarakhand,5,Less Than ₹1 Lakh,Male,332
+1683,2021,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,56
+1684,2021,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,128
+1687,2021,Uttarakhand,5,₹10 Lakhs And Above,Male,1
+1689,2021,Uttarakhand,5,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,6
+1690,2021,Uttarakhand,5,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+1692,2021,West Bengal,19,Less Than ₹1 Lakh,Female,4162
+1693,2021,West Bengal,19,Less Than ₹1 Lakh,Male,6189
+1694,2021,West Bengal,19,Less Than ₹1 Lakh,Transgender,1
+1695,2021,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,613
+1696,2021,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1577
+1698,2021,West Bengal,19,₹10 Lakhs And Above,Female,237
+1699,2021,West Bengal,19,₹10 Lakhs And Above,Male,262
+1701,2021,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,197
+1702,2021,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,262
+1704,2022,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Female,27
+1705,2022,Andaman And Nicobar Islands,35,Less Than ₹1 Lakh,Male,63
+1707,2022,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,3
+1708,2022,Andaman And Nicobar Islands,35,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,64
+1713,2022,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1714,2022,Andaman And Nicobar Islands,35,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,13
+1716,2022,Andhra Pradesh,28,Less Than ₹1 Lakh,Female,1205
+1717,2022,Andhra Pradesh,28,Less Than ₹1 Lakh,Male,3325
+1718,2022,Andhra Pradesh,28,Less Than ₹1 Lakh,Transgender,2
+1719,2022,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,726
+1720,2022,Andhra Pradesh,28,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2797
+1722,2022,Andhra Pradesh,28,₹10 Lakhs And Above,Female,26
+1723,2022,Andhra Pradesh,28,₹10 Lakhs And Above,Male,123
+1725,2022,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,184
+1726,2022,Andhra Pradesh,28,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,520
+1728,2022,Arunachal Pradesh,12,Less Than ₹1 Lakh,Female,29
+1729,2022,Arunachal Pradesh,12,Less Than ₹1 Lakh,Male,81
+1731,2022,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,5
+1732,2022,Arunachal Pradesh,12,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,25
+1735,2022,Arunachal Pradesh,12,₹10 Lakhs And Above,Male,3
+1737,2022,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1738,2022,Arunachal Pradesh,12,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,5
+1740,2022,Assam,18,Less Than ₹1 Lakh,Female,713
+1741,2022,Assam,18,Less Than ₹1 Lakh,Male,1479
+1743,2022,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,258
+1744,2022,Assam,18,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,694
+1746,2022,Assam,18,₹10 Lakhs And Above,Female,10
+1747,2022,Assam,18,₹10 Lakhs And Above,Male,12
+1749,2022,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,30
+1750,2022,Assam,18,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,124
+1752,2022,Bihar,10,Less Than ₹1 Lakh,Female,199
+1753,2022,Bihar,10,Less Than ₹1 Lakh,Male,186
+1755,2022,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,103
+1756,2022,Bihar,10,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,182
+1759,2022,Bihar,10,₹10 Lakhs And Above,Male,2
+1761,2022,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,14
+1762,2022,Bihar,10,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,16
+1764,2022,Chandigarh,4,Less Than ₹1 Lakh,Female,17
+1765,2022,Chandigarh,4,Less Than ₹1 Lakh,Male,36
+1767,2022,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,23
+1768,2022,Chandigarh,4,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,54
+1774,2022,Chandigarh,4,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1776,2022,Chhattisgarh,22,Less Than ₹1 Lakh,Female,1430
+1777,2022,Chhattisgarh,22,Less Than ₹1 Lakh,Male,3687
+1779,2022,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,776
+1780,2022,Chhattisgarh,22,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2221
+1782,2022,Chhattisgarh,22,₹10 Lakhs And Above,Female,7
+1783,2022,Chhattisgarh,22,₹10 Lakhs And Above,Male,35
+1785,2022,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,73
+1786,2022,Chhattisgarh,22,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,217
+1788,2022,Delhi,7,Less Than ₹1 Lakh,Female,449
+1789,2022,Delhi,7,Less Than ₹1 Lakh,Male,1211
+1791,2022,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,367
+1792,2022,Delhi,7,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1155
+1794,2022,Delhi,7,₹10 Lakhs And Above,Female,8
+1795,2022,Delhi,7,₹10 Lakhs And Above,Male,28
+1797,2022,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,35
+1798,2022,Delhi,7,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,164
+1800,2022,Goa,30,Less Than ₹1 Lakh,Female,48
+1801,2022,Goa,30,Less Than ₹1 Lakh,Male,93
+1803,2022,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,20
+1804,2022,Goa,30,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,119
+1807,2022,Goa,30,₹10 Lakhs And Above,Male,1
+1809,2022,Goa,30,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,2
+1810,2022,Goa,30,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,19
+1812,2022,Gujarat,24,Less Than ₹1 Lakh,Female,2185
+1813,2022,Gujarat,24,Less Than ₹1 Lakh,Male,4193
+1814,2022,Gujarat,24,Less Than ₹1 Lakh,Transgender,2
+1815,2022,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,527
+1816,2022,Gujarat,24,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1878
+1819,2022,Gujarat,24,₹10 Lakhs And Above,Male,2
+1821,2022,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,30
+1822,2022,Gujarat,24,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,185
+1824,2022,Haryana,6,Less Than ₹1 Lakh,Female,523
+1825,2022,Haryana,6,Less Than ₹1 Lakh,Male,1781
+1827,2022,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,149
+1828,2022,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1075
+1829,2022,Haryana,6,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,1
+1830,2022,Haryana,6,₹10 Lakhs And Above,Female,9
+1831,2022,Haryana,6,₹10 Lakhs And Above,Male,45
+1833,2022,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,28
+1834,2022,Haryana,6,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,172
+1836,2022,Himachal Pradesh,2,Less Than ₹1 Lakh,Female,128
+1837,2022,Himachal Pradesh,2,Less Than ₹1 Lakh,Male,250
+1839,2022,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,37
+1840,2022,Himachal Pradesh,2,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,178
+1842,2022,Himachal Pradesh,2,₹10 Lakhs And Above,Female,2
+1843,2022,Himachal Pradesh,2,₹10 Lakhs And Above,Male,6
+1845,2022,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,6
+1846,2022,Himachal Pradesh,2,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,37
+1848,2022,Jammu And Kashmir,1,Less Than ₹1 Lakh,Female,109
+1849,2022,Jammu And Kashmir,1,Less Than ₹1 Lakh,Male,125
+1851,2022,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,28
+1852,2022,Jammu And Kashmir,1,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,46
+1855,2022,Jammu And Kashmir,1,₹10 Lakhs And Above,Male,3
+1857,2022,Jammu And Kashmir,1,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1858,2022,Jammu And Kashmir,1,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,11
+1860,2022,Jharkhand,20,Less Than ₹1 Lakh,Female,471
+1861,2022,Jharkhand,20,Less Than ₹1 Lakh,Male,981
+1863,2022,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,220
+1864,2022,Jharkhand,20,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,421
+1866,2022,Jharkhand,20,₹10 Lakhs And Above,Female,2
+1867,2022,Jharkhand,20,₹10 Lakhs And Above,Male,32
+1869,2022,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,15
+1870,2022,Jharkhand,20,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,39
+1872,2022,Karnataka,29,Less Than ₹1 Lakh,Female,2178
+1873,2022,Karnataka,29,Less Than ₹1 Lakh,Male,6520
+1874,2022,Karnataka,29,Less Than ₹1 Lakh,Transgender,1
+1875,2022,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,959
+1876,2022,Karnataka,29,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3462
+1878,2022,Karnataka,29,₹10 Lakhs And Above,Female,19
+1879,2022,Karnataka,29,₹10 Lakhs And Above,Male,52
+1881,2022,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,87
+1882,2022,Karnataka,29,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,328
+1884,2022,Kerala,32,Less Than ₹1 Lakh,Female,1627
+1885,2022,Kerala,32,Less Than ₹1 Lakh,Male,4959
+1886,2022,Kerala,32,Less Than ₹1 Lakh,Transgender,1
+1887,2022,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,429
+1888,2022,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2596
+1889,2022,Kerala,32,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,1
+1890,2022,Kerala,32,₹10 Lakhs And Above,Female,1
+1891,2022,Kerala,32,₹10 Lakhs And Above,Male,30
+1893,2022,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,72
+1894,2022,Kerala,32,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,446
+1896,2022,Ladakh,37,Less Than ₹1 Lakh,Female,1
+1897,2022,Ladakh,37,Less Than ₹1 Lakh,Male,5
+1900,2022,Ladakh,37,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,4
+1903,2022,Ladakh,37,₹10 Lakhs And Above,Male,1
+1906,2022,Ladakh,37,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+1909,2022,Lakshadweep,31,Less Than ₹1 Lakh,Male,1
+1918,2022,Lakshadweep,31,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1920,2022,Madhya Pradesh,23,Less Than ₹1 Lakh,Female,3522
+1921,2022,Madhya Pradesh,23,Less Than ₹1 Lakh,Male,6460
+1923,2022,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1214
+1924,2022,Madhya Pradesh,23,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3737
+1926,2022,Madhya Pradesh,23,₹10 Lakhs And Above,Female,11
+1927,2022,Madhya Pradesh,23,₹10 Lakhs And Above,Male,34
+1929,2022,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,72
+1930,2022,Madhya Pradesh,23,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,336
+1932,2022,Maharashtra,27,Less Than ₹1 Lakh,Female,3119
+1933,2022,Maharashtra,27,Less Than ₹1 Lakh,Male,10232
+1934,2022,Maharashtra,27,Less Than ₹1 Lakh,Transgender,1
+1935,2022,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1269
+1936,2022,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,6869
+1937,2022,Maharashtra,27,₹1 Lakh & Above - Less Than ₹5 Lakhs,Transgender,1
+1938,2022,Maharashtra,27,₹10 Lakhs And Above,Female,4
+1939,2022,Maharashtra,27,₹10 Lakhs And Above,Male,88
+1941,2022,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,185
+1942,2022,Maharashtra,27,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,978
+1944,2022,Manipur,14,Less Than ₹1 Lakh,Female,4
+1945,2022,Manipur,14,Less Than ₹1 Lakh,Male,8
+1947,2022,Manipur,14,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,6
+1948,2022,Manipur,14,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,4
+1954,2022,Manipur,14,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,4
+1956,2022,Meghalaya,17,Less Than ₹1 Lakh,Female,43
+1957,2022,Meghalaya,17,Less Than ₹1 Lakh,Male,140
+1959,2022,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,6
+1960,2022,Meghalaya,17,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,23
+1966,2022,Meghalaya,17,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,1
+1968,2022,Mizoram,15,Less Than ₹1 Lakh,Female,10
+1969,2022,Mizoram,15,Less Than ₹1 Lakh,Male,54
+1971,2022,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,8
+1972,2022,Mizoram,15,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,78
+1978,2022,Mizoram,15,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,3
+1980,2022,Nagaland,13,Less Than ₹1 Lakh,Female,8
+1981,2022,Nagaland,13,Less Than ₹1 Lakh,Male,21
+1983,2022,Nagaland,13,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1
+1984,2022,Nagaland,13,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,12
+1987,2022,Nagaland,13,₹10 Lakhs And Above,Male,4
+1989,2022,Nagaland,13,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+1990,2022,Nagaland,13,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,2
+1992,2022,Odisha,21,Less Than ₹1 Lakh,Female,3464
+1993,2022,Odisha,21,Less Than ₹1 Lakh,Male,865
+1995,2022,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,392
+1996,2022,Odisha,21,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1103
+2001,2022,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,134
+2002,2022,Odisha,21,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,182
+2004,2022,Puducherry,34,Less Than ₹1 Lakh,Female,123
+2005,2022,Puducherry,34,Less Than ₹1 Lakh,Male,357
+2006,2022,Puducherry,34,Less Than ₹1 Lakh,Transgender,1
+2016,2022,Punjab,3,Less Than ₹1 Lakh,Female,455
+2017,2022,Punjab,3,Less Than ₹1 Lakh,Male,1423
+2018,2022,Punjab,3,Less Than ₹1 Lakh,Transgender,1
+2019,2022,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,44
+2020,2022,Punjab,3,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,406
+2022,2022,Punjab,3,₹10 Lakhs And Above,Female,6
+2023,2022,Punjab,3,₹10 Lakhs And Above,Male,61
+2025,2022,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,6
+2026,2022,Punjab,3,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,39
+2028,2022,Rajasthan,8,Less Than ₹1 Lakh,Female,976
+2029,2022,Rajasthan,8,Less Than ₹1 Lakh,Male,2212
+2031,2022,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,387
+2032,2022,Rajasthan,8,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1449
+2034,2022,Rajasthan,8,₹10 Lakhs And Above,Female,10
+2035,2022,Rajasthan,8,₹10 Lakhs And Above,Male,27
+2037,2022,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,45
+2038,2022,Rajasthan,8,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,237
+2040,2022,Sikkim,11,Less Than ₹1 Lakh,Female,61
+2041,2022,Sikkim,11,Less Than ₹1 Lakh,Male,187
+2043,2022,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,5
+2044,2022,Sikkim,11,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,34
+2047,2022,Sikkim,11,₹10 Lakhs And Above,Male,1
+2049,2022,Sikkim,11,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,1
+2050,2022,Sikkim,11,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,4
+2052,2022,Tamil Nadu,33,Less Than ₹1 Lakh,Female,5216
+2053,2022,Tamil Nadu,33,Less Than ₹1 Lakh,Male,11725
+2054,2022,Tamil Nadu,33,Less Than ₹1 Lakh,Transgender,16
+2055,2022,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,366
+2056,2022,Tamil Nadu,33,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2373
+2058,2022,Tamil Nadu,33,₹10 Lakhs And Above,Female,1
+2059,2022,Tamil Nadu,33,₹10 Lakhs And Above,Male,6
+2061,2022,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,16
+2062,2022,Tamil Nadu,33,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,115
+2064,2022,Telangana,36,Less Than ₹1 Lakh,Female,810
+2065,2022,Telangana,36,Less Than ₹1 Lakh,Male,3012
+2067,2022,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,1144
+2068,2022,Telangana,36,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,3729
+2070,2022,Telangana,36,₹10 Lakhs And Above,Female,27
+2071,2022,Telangana,36,₹10 Lakhs And Above,Male,82
+2073,2022,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,230
+2074,2022,Telangana,36,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,946
+2076,2022,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Female,52
+2077,2022,The Dadra And Nagar Haveli And Daman And Diu,38,Less Than ₹1 Lakh,Male,91
+2079,2022,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,6
+2080,2022,The Dadra And Nagar Haveli And Daman And Diu,38,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,52
+2086,2022,The Dadra And Nagar Haveli And Daman And Diu,38,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,4
+2088,2022,Tripura,16,Less Than ₹1 Lakh,Female,164
+2089,2022,Tripura,16,Less Than ₹1 Lakh,Male,270
+2091,2022,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,41
+2092,2022,Tripura,16,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,202
+2097,2022,Tripura,16,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,4
+2098,2022,Tripura,16,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,32
+2100,2022,Uttar Pradesh,9,Less Than ₹1 Lakh,Female,2115
+2101,2022,Uttar Pradesh,9,Less Than ₹1 Lakh,Male,3026
+2103,2022,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,766
+2104,2022,Uttar Pradesh,9,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,1931
+2106,2022,Uttar Pradesh,9,₹10 Lakhs And Above,Female,5
+2107,2022,Uttar Pradesh,9,₹10 Lakhs And Above,Male,8
+2109,2022,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,65
+2110,2022,Uttar Pradesh,9,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,260
+2112,2022,Uttarakhand,5,Less Than ₹1 Lakh,Female,144
+2113,2022,Uttarakhand,5,Less Than ₹1 Lakh,Male,352
+2115,2022,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,127
+2116,2022,Uttarakhand,5,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,176
+2121,2022,Uttarakhand,5,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,5
+2122,2022,Uttarakhand,5,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,10
+2124,2022,West Bengal,19,Less Than ₹1 Lakh,Female,3593
+2125,2022,West Bengal,19,Less Than ₹1 Lakh,Male,5221
+2127,2022,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Female,708
+2128,2022,West Bengal,19,₹1 Lakh & Above - Less Than ₹5 Lakhs,Male,2157
+2130,2022,West Bengal,19,₹10 Lakhs And Above,Female,137
+2131,2022,West Bengal,19,₹10 Lakhs And Above,Male,400
+2133,2022,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Female,206
+2134,2022,West Bengal,19,₹5 Lakhs & Above - Less Than ₹10 Lakhs,Male,247
