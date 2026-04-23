@@ -1,43 +1,39 @@
-# INT387 — Suicide Analysis Project
+# 🔍 INT387 — Suicide Analysis Project
 
-**A data-driven analysis of suicide patterns across socioeconomic and demographic dimensions.**
+> A data-driven analysis of suicide patterns across socioeconomic and demographic dimensions.
 
-<div align="center">
-
-[![Built with Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-F2C811?style=flat-square&logo=powerbi)](https://powerbi.microsoft.com/)
-[![Data: CSV/Excel](https://img.shields.io/badge/Data-CSV%2FExcel-217346?style=flat-square&logo=microsoft-excel)](https://www.microsoft.com/excel)
-[![Status: Academic](https://img.shields.io/badge/Status-Academic%20Project-blue?style=flat-square)](https://github.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-
-</div>
+[![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-F2C811?logo=powerbi)](https://powerbi.microsoft.com/)
+[![Data Format: Excel/CSV](https://img.shields.io/badge/Data-Excel%2FCSV-217346?logo=microsoftexcel)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Status: Academic Project](https://img.shields.io/badge/Status-Academic%20Project-blue)](https://github.com/Vanshr45/INT387-Suicide-Analysis)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Datasets](#datasets)
-- [Key Insights](#key-insights)
-- [Tools Used](#tools-used)
-- [How to Use](#how-to-use)
-- [Report](#report)
-- [Disclaimer](#disclaimer)
-- [License](#license)
+- [Overview](#-overview)
+- [Project Structure](#-project-structure)
+- [Datasets](#-datasets)
+- [Key Insights](#-key-insights)
+- [Tools Used](#-tools-used)
+- [How to Use](#-how-to-use)
+- [Report](#-report)
+- [Disclaimer](#-disclaimer)
+- [License](#-license)
 
 ---
 
-## 🎯 Overview
+## 📊 Overview
 
-This project is a comprehensive data analysis initiative designed to examine suicide rates and patterns across multiple socioeconomic and demographic dimensions. The analysis includes exploration of suicide trends by:
+This project is a comprehensive data analysis of global suicide patterns, examining trends across multiple socioeconomic and demographic dimensions. The analysis explores suicide rates segmented by:
 
-- **Causes** — Understanding the underlying causes of suicide
-- **Economic Status** — Examining the correlation between income levels and suicide rates
-- **Educational Background** — Analyzing the relationship between education levels and suicide prevalence
-- **Marital Status** — Investigating how relationship status impacts suicide rates
-- **Professional Background** — Exploring occupation-specific suicide patterns
+- **Causes** — Primary factors contributing to suicide
+- **Economic Status** — Impact of income levels and economic conditions
+- **Educational Background** — Correlation with educational attainment
+- **Marital Status** — Relationship status patterns
+- **Profession** — Occupational trends and risks
 
-As part of the **INT387 Data Analytics Course**, this project leverages Power BI to create interactive visualizations and insights from raw CSV datasets, enabling stakeholders to understand complex patterns and inform public health initiatives.
+This analysis is part of the **INT387** academic course and combines raw data processing, exploratory analysis, and interactive visualization through Power BI dashboards.
 
 ---
 
@@ -65,121 +61,88 @@ INT387-Suicide-Analysis/
 
 ---
 
-## 📊 Datasets
+## � Datasets
 
 | Dataset | Format | Description |
 |---------|--------|-------------|
-| **suicides-by-causes** | CSV/XLSX | Categorizes suicide incidents by primary causes (mental health, financial, relationship, etc.) |
-| **suicides-by-economic-status** | CSV/XLSX | Analyzes suicide rates segmented by income levels and economic classifications |
-| **suicides-by-educational-status** | CSV/XLSX | Examines correlation between educational attainment and suicide prevalence |
-| **suicides-by-marital-status** | CSV/XLSX | Explores suicide patterns across different marital statuses (single, married, divorced, widowed) |
-| **suicides-by-profession-wise** | CSV/XLSX | Investigates occupation-specific suicide rates and at-risk professional groups |
+| **suicides-by-causes** | CSV / XLSX | Breakdown of suicide cases by primary contributing causes and factors |
+| **suicides-by-economic-status** | CSV / XLSX | Analysis of suicide rates stratified by income and economic classification |
+| **suicides-by-educational-status** | CSV / XLSX | Correlation between educational attainment levels and suicide incidents |
+| **suicides-by-marital-status** | CSV / XLSX | Distribution of suicides across marital status categories (single, married, divorced, widowed) |
+| **suicides-by-profession-wise** | CSV / XLSX | Occupational breakdown showing suicide rates by profession and industry sectors |
 
 ---
 
 ## 💡 Key Insights
 
-The following insights have been identified through detailed analysis of the datasets:
-
-- 📈 **Economic Status Impact** — Economic status shows a strong correlation with suicide rates, with lower-income populations experiencing disproportionately higher rates
-- 🎓 **Educational Attainment** — Individuals with lower educational attainment demonstrate elevated suicide prevalence compared to higher education cohorts
-- 💔 **Marital Status Patterns** — Divorced and widowed individuals exhibit significantly higher suicide rates compared to married populations
-- 👔 **Occupational Disparities** — Certain professions face substantially elevated suicide risks, particularly in high-stress industries
-- 🔍 **Multifactorial Nature** — The data reveals that suicide is a complex phenomenon influenced by the intersection of multiple socioeconomic and demographic factors
+- 📌 Economic status shows a strong correlation with suicide rates, with lower-income populations at higher risk
+- 📌 Individuals with lower educational attainment face disproportionately higher suicide rates across demographics
+- 📌 Marital status significantly influences suicide risk, with unmarried individuals showing elevated incident rates
+- 📌 Certain professions and industries demonstrate notably higher suicide incident rates, requiring sector-specific intervention strategies
+- 📌 Multifactorial analysis reveals that socioeconomic factors often compound, creating heightened vulnerability groups
 
 ---
 
 ## 🛠️ Tools Used
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/CSV-Data-blue?style=for-the-badge" />
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Power BI</b></td>
-    <td align="center"><b>Microsoft Excel</b></td>
-    <td align="center"><b>CSV/XLSX</b></td>
-    <td align="center"><b>Python</b></td>
-  </tr>
-</table>
-
-- **Microsoft Power BI** — Interactive dashboards and data visualization
-- **Microsoft Excel** — Data cleaning, transformation, and preliminary analysis
-- **CSV/XLSX** — Structured data format for raw and cleaned datasets
-- **Python** — Data processing and statistical analysis (where applicable)
+| Tool | Purpose |
+|------|---------|
+| **Microsoft Power BI** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) | Interactive dashboards and visual analytics |
+| **Microsoft Excel** ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) | Data cleaning and preliminary analysis |
+| **CSV/XLSX Processing** ![Data](https://img.shields.io/badge/CSV%2FXLSX-Data%20Format-blue) | Data storage and exchange formats |
+| **Python** (if applicable) | Data manipulation and preprocessing |
 
 ---
 
-## 📖 How to Use
+## � How to Use
 
-To explore the interactive dashboards and visualizations in this project:
+### Opening the Power BI Dashboard
 
-1. **Install Power BI Desktop** — Download from [Microsoft Power BI](https://powerbi.microsoft.com/en-us/desktop/) if not already installed
+1. **Download Power BI Desktop** from [Microsoft's official site](https://powerbi.microsoft.com/en-us/desktop/)
+2. **Open the `.pbix` file**: Navigate to `Suicide Analysis Project.pbix` and open it with Power BI Desktop
+3. **Explore the dashboards**:
+   - Interact with filters and slicers to drill down into specific demographics
+   - Hover over visualizations for detailed tooltips
+   - Use the page navigation at the bottom to switch between different analysis views
+4. **Refresh data** (if needed): Click "Refresh" to update data connections
 
-2. **Open the Analysis File**:
-   - Navigate to `Suicide Analysis Project.pbix`
-   - Double-click to open in Power BI Desktop (or right-click → Open with → Power BI Desktop)
+### Working with Raw Data
 
-3. **Explore the Dashboards**:
-   - Review interactive visualizations filtered by causes, economic status, education, marital status, and profession
-   - Use slicers and filters to drill down into specific segments
-   - Hover over data points for detailed tooltips
-
-4. **Access the Data**:
-   - Navigate to the `Dataset/` folder to access both raw CSV files and cleaned XLSX files
-   - Use these for further analysis in Excel, Python, or other tools
+- **Raw Data files** are located in `Dataset/Raw Data/` as `.csv` files
+- **Cleaned Data files** are in `Dataset/Cleaned Data/` in both `.xlsx` and `.csv` formats for easy import into your preferred tools
 
 ---
 
 ## 📄 Report
 
-The comprehensive written analysis and findings are documented in:
+The complete written analysis and detailed findings are documented in:
 
-**📋 `Suicide Analysis Report 12408787.docx`**
+**📑 Suicide Analysis Report 12408787.docx**
 
 This report contains:
-- Detailed methodology and data collection approach
-- In-depth statistical analysis
-- Interpretation of key findings
-- Policy recommendations and implications
+- Executive summary of findings
+- Detailed statistical analysis
+- Interpretation of key trends
 - Academic citations and references
+- Recommendations based on the data
 
 ---
 
 ## ⚠️ Disclaimer
 
-**Important Notice:** This project deals with sensitive mental health and suicide-related data. 
+**This project deals with sensitive mental health data.** It is intended purely for **academic research purposes** and is part of the INT387 course curriculum. 
 
-This analysis is intended **purely for academic research purposes** as part of the INT387 Data Analytics course. The insights derived from this data are meant to contribute to understanding public health trends and informing evidence-based interventions.
+The data and analysis presented here are not intended for clinical decision-making or personal mental health guidance. If you or someone you know is struggling with suicidal thoughts, please reach out to a mental health professional or crisis helpline:
 
-If you or someone you know is struggling with suicidal thoughts, please reach out to:
-- **National Suicide Prevention Lifeline** (US): 1-800-273-8255
-- **Crisis Text Line**: Text HOME to 741741
+- **National Suicide Prevention Lifeline (US)**: 1-800-273-8255
 - **International Association for Suicide Prevention**: https://www.iasp.info/resources/Crisis_Centres/
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-<div align="center">
-
-**Made as part of INT387 Data Analytics Course** 
-
-*Last Updated: April 2026*
-
-</div>
+**Created for INT387 Academic Project** | Last Updated: April 2026
