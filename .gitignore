@@ -1,8 +1,12 @@
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Temp/cache
 *.tmp
-*.temp
-*~
-*.swp
-*.swo
-~$*
+__pycache__/
+.env
+
+# Power BI cache
+*.pbix.bak
